@@ -18,8 +18,6 @@ namespace vision {
 
 class SurroundView{
  public:
-  using Callback = std::function<void(std::string const& image_file_dir, std::vector<Image>& cam_imgs)>;
-  
   // Image
   struct Image {
     /// @brief Width
@@ -46,8 +44,7 @@ class SurroundView{
   ///
   /// @param dst_img the output surround view image
   /// @param cam_imgs stores the front camera img, the left camera img, the back camera img and the right camera img
-  // void stitch(Image& dst_img, std::vector<Image>& cam_imgs);
-  void stitch(Callback call_back);
+  void stitch(Image& dst_img, std::vector<Image>& cam_imgs);
 
   /// @brief get cam position in the car coordinate system
   ///
