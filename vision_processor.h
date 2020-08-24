@@ -12,7 +12,11 @@
 #include "framework/ad_resource_manager.h"
 #include "surround/surround_view.h"
 
-// #include <opencv2/opencv.hpp>
+#include <opencv2/opencv.hpp>
+#include <vector>
+#include <functional>
+#include <utility>
+#include <chrono>
 
 namespace autodrive {
 namespace vision {
@@ -37,9 +41,9 @@ class VisionProcessor final : public AdService {
   /// @throw InvalidConfigException  when config file is not valid
   /// @throw FileNotFoundException  when config file does not exist
   /// @throw std::bad_alloc  when memory not enough  
-  void Init(std::string const& config_file_path) noexcept(false) final;
+  void Init(std::string const& config_file_path, std::string const& yml_file_dir) noexcept(false) final;
 
-  void Init_();
+  // void Init_();
 
 
   /// @brief Start up the service
@@ -56,7 +60,9 @@ class VisionProcessor final : public AdService {
   void GracefulExit() noexcept;
 
   //*****************************************
-  void read_image(std::string const& image_file_dir, std::vector<SurroundView::Image>& cam_imgs) noexcept;
+  /// @brief Task function of surround view
+  void image_task() noexcept;
+  // void write_image() noexcept;
 //  protected:
  private:
   /// @brief Constructor
@@ -65,11 +71,13 @@ class VisionProcessor final : public AdService {
 //   void sv_callback(SurroundView::Image& vision_data) noexcept;
   
  private:
+  // std::string const& image_file_dir = ...;
+  vector<std::string> cam_filepath(4);
+  std::string dst_filepath;
   /// @brief the output surround view image 
-  VisionProcessor::Image dst_img;
+  SurroundView::Image dst_img;
   /// @brief cam_imgs stores four camera images
-  std::vector<Vision::Image Image> cam_imgs;
-  // cv::Mat in_image_, out_image_;
+  std::vector<SurroundView::Image> cam_imgs;
   /// @brief graceful exit
   bool graceful_exit_{false};  
 };
