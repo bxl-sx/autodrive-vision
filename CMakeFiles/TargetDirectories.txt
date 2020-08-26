@@ -1,0 +1,3 @@
+/home/xl/projects/autodrive/autodrive-vision/CMakeFiles/edit_cache.dir
+/home/xl/projects/autodrive/autodrive-vision/CMakeFiles/opencv_test.dir
+/home/xl/projects/autodrive/autodrive-vision/CMakeFiles/rebuild_cache.dir
