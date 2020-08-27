@@ -59,11 +59,11 @@ link_directories(
 )
 
 aux_source_directory(. DIR_SRCS)
-add_executable(opencv_test
-  
-  opencv_test.cpp)
+#add_executable(opencv_test
+#  
+#  opencv_test.cpp)
 
-target_link_libraries(opencv_test ${OpenCV_LIBS} liblog4cxx.so)
+#target_link_libraries(opencv_test ${OpenCV_LIBS} liblog4cxx.so)
 
 add_subdirectory(${PROJECT_SOURCE_DIR}/src)
 add_subdirectory(${PROJECT_SOURCE_DIR}/../thirdparty/libicsneo icsneo)

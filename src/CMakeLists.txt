@@ -54,7 +54,7 @@ set_target_properties(advision PROPERTIES OUTPUT_NAME "advision")
 set_target_properties(advision PROPERTIES CLEAN_DIRECT_OUTPUT 1)
 set_target_properties(advision PROPERTIES VERSION 1 SOVERSION 1)
 
-if(BUILD_ATOM)
+#if(BUILD_ATOM)
 target_link_libraries(
   vision 
   adinterface adalgorithm adsensormodel adframework adpublic adcalibrationapi
@@ -63,13 +63,13 @@ target_link_libraries(
 	icsneocpp calmcar_sdk canlib restbed
 	${CMAKE_THREAD_LIBS_INIT} ${Boost_LIBRARIES} ${OpenCV_LIBS}
 )
-else()
-target_link_libraries(
-  vision 
-  adinterface adalgorithm adsensormodel adframework adpublic adcalibrationapi
-	hiredis log4cxx rt boost_thread protobuf zmq jpeg
-	adsensorcommon adcalmcarvision admobileyevision adleopardvision
-	icsneocpp calmcar_sdk canlib restbed 
-	${CMAKE_THREAD_LIBS_INIT} ${Boost_LIBRARIES} ${OpenCV_LIBS}
-)
-endif()
+#else()
+#target_link_libraries(
+#  vision 
+#  adinterface adalgorithm adsensormodel adframework adpublic adcalibrationapi
+#	hiredis log4cxx rt boost_thread protobuf zmq jpeg
+#	adsensorcommon adcalmcarvision admobileyevision adleopardvision
+#	icsneocpp calmcar_sdk canlib restbed 
+#	${CMAKE_THREAD_LIBS_INIT} ${Boost_LIBRARIES} ${OpenCV_LIBS}
+#)
+#endif()

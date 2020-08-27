@@ -56,10 +56,21 @@ CMAKE_BINARY_DIR = /home/xl/projects/autodrive/autodrive-vision
 #=============================================================================
 # Targets provided globally by CMake.
 
+# Special rule for the target package_source
+package_source:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool for source..."
+	/usr/bin/cpack --config ./CPackSourceConfig.cmake /home/xl/projects/autodrive/autodrive-vision/CPackSourceConfig.cmake
+.PHONY : package_source
+
+# Special rule for the target package_source
+package_source/fast: package_source
+
+.PHONY : package_source/fast
+
 # Special rule for the target edit_cache
 edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
+	/usr/bin/cmake-gui -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,6 +88,17 @@ rebuild_cache:
 rebuild_cache/fast: rebuild_cache
 
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target package
+package: preinstall
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Run CPack packaging tool..."
+	/usr/bin/cpack --config ./CPackConfig.cmake
+.PHONY : package
+
+# Special rule for the target package
+package/fast: package
+
+.PHONY : package/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -111,44 +133,108 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named opencv_test
+# Target rules for targets named advision
 
 # Build rule for target.
-opencv_test: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 opencv_test
-.PHONY : opencv_test
+advision: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 advision
+.PHONY : advision
 
 # fast build rule for target.
-opencv_test/fast:
-	$(MAKE) -f CMakeFiles/opencv_test.dir/build.make CMakeFiles/opencv_test.dir/build
-.PHONY : opencv_test/fast
+advision/fast:
+	$(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/build
+.PHONY : advision/fast
 
-opencv_test.o: opencv_test.cpp.o
+#=============================================================================
+# Target rules for targets named vision
 
-.PHONY : opencv_test.o
+# Build rule for target.
+vision: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 vision
+.PHONY : vision
 
-# target to build an object file
-opencv_test.cpp.o:
-	$(MAKE) -f CMakeFiles/opencv_test.dir/build.make CMakeFiles/opencv_test.dir/opencv_test.cpp.o
-.PHONY : opencv_test.cpp.o
+# fast build rule for target.
+vision/fast:
+	$(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/build
+.PHONY : vision/fast
 
-opencv_test.i: opencv_test.cpp.i
+#=============================================================================
+# Target rules for targets named icsneoc
 
-.PHONY : opencv_test.i
+# Build rule for target.
+icsneoc: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 icsneoc
+.PHONY : icsneoc
 
-# target to preprocess a source file
-opencv_test.cpp.i:
-	$(MAKE) -f CMakeFiles/opencv_test.dir/build.make CMakeFiles/opencv_test.dir/opencv_test.cpp.i
-.PHONY : opencv_test.cpp.i
+# fast build rule for target.
+icsneoc/fast:
+	$(MAKE) -f icsneo/CMakeFiles/icsneoc.dir/build.make icsneo/CMakeFiles/icsneoc.dir/build
+.PHONY : icsneoc/fast
 
-opencv_test.s: opencv_test.cpp.s
+#=============================================================================
+# Target rules for targets named icsneocpp
 
-.PHONY : opencv_test.s
+# Build rule for target.
+icsneocpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 icsneocpp
+.PHONY : icsneocpp
 
-# target to generate assembly for a file
-opencv_test.cpp.s:
-	$(MAKE) -f CMakeFiles/opencv_test.dir/build.make CMakeFiles/opencv_test.dir/opencv_test.cpp.s
-.PHONY : opencv_test.cpp.s
+# fast build rule for target.
+icsneocpp/fast:
+	$(MAKE) -f icsneo/CMakeFiles/icsneocpp.dir/build.make icsneo/CMakeFiles/icsneocpp.dir/build
+.PHONY : icsneocpp/fast
+
+#=============================================================================
+# Target rules for targets named icsneolegacy
+
+# Build rule for target.
+icsneolegacy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 icsneolegacy
+.PHONY : icsneolegacy
+
+# fast build rule for target.
+icsneolegacy/fast:
+	$(MAKE) -f icsneo/CMakeFiles/icsneolegacy.dir/build.make icsneo/CMakeFiles/icsneolegacy.dir/build
+.PHONY : icsneolegacy/fast
+
+#=============================================================================
+# Target rules for targets named dist
+
+# Build rule for target.
+dist: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dist
+.PHONY : dist
+
+# fast build rule for target.
+dist/fast:
+	$(MAKE) -f icsneo/third-party/libftdi/CMakeFiles/dist.dir/build.make icsneo/third-party/libftdi/CMakeFiles/dist.dir/build
+.PHONY : dist/fast
+
+#=============================================================================
+# Target rules for targets named ftdi1-static
+
+# Build rule for target.
+ftdi1-static: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ftdi1-static
+.PHONY : ftdi1-static
+
+# fast build rule for target.
+ftdi1-static/fast:
+	$(MAKE) -f icsneo/third-party/libftdi/src/CMakeFiles/ftdi1-static.dir/build.make icsneo/third-party/libftdi/src/CMakeFiles/ftdi1-static.dir/build
+.PHONY : ftdi1-static/fast
+
+#=============================================================================
+# Target rules for targets named ftdi1
+
+# Build rule for target.
+ftdi1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ftdi1
+.PHONY : ftdi1
+
+# fast build rule for target.
+ftdi1/fast:
+	$(MAKE) -f icsneo/third-party/libftdi/src/CMakeFiles/ftdi1.dir/build.make icsneo/third-party/libftdi/src/CMakeFiles/ftdi1.dir/build
+.PHONY : ftdi1/fast
 
 # Help Target
 help:
@@ -156,12 +242,18 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... package_source"
 	@echo "... edit_cache"
-	@echo "... opencv_test"
 	@echo "... rebuild_cache"
-	@echo "... opencv_test.o"
-	@echo "... opencv_test.i"
-	@echo "... opencv_test.s"
+	@echo "... package"
+	@echo "... advision"
+	@echo "... vision"
+	@echo "... icsneoc"
+	@echo "... icsneocpp"
+	@echo "... icsneolegacy"
+	@echo "... dist"
+	@echo "... ftdi1-static"
+	@echo "... ftdi1"
 .PHONY : help
 
 
