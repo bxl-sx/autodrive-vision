@@ -12,42 +12,45 @@ aux_source_directory(./obstacle/common/preprocess DIRSRCS_OBSTACLE_COMMON_P)
 aux_source_directory(./obstacle/frbsd DIRSRCS_OBSTACLE_FRBSD)
 aux_source_directory(./obstacle/sur DIRSRCS_OBSTACLE_SUR)
 aux_source_directory(./obstacle/supplier DIRSRCS_OBSTACLE_SUPPLIER)
+aux_source_directory(./surround DIRSRCS_SURROUND)
 
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
 set(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
 
 add_executable(vision 
 ${DIRSRCS}
-${DIRSRCS_ADAPTER}
-${DIRSRCS_DATA_TASK}
-${DIR_PROTO_SRCS}
-${DIRSRCS_CALIBRATION}
-${DIRSRCS_OBSTACLE}
-${DIRSRCS_LANE}
-${DIRSRCS_SIGN}
-${DIRSRCS_TRAFFIC_LIGHT}
-${DIRSRCS_OBSTACLE_COMMON}
-${DIRSRCS_OBSTACLE_COMMON_P}
-${DIRSRCS_OBSTACLE_FRBSD}
-${DIRSRCS_OBSTACLE_SUR}
-${DIRSRCS_OBSTACLE_SUPPLIER}
+# ${DIRSRCS_ADAPTER}
+# ${DIRSRCS_DATA_TASK}
+# ${DIR_PROTO_SRCS}
+# ${DIRSRCS_CALIBRATION}
+# ${DIRSRCS_OBSTACLE}
+# ${DIRSRCS_LANE}
+# ${DIRSRCS_SIGN}
+# ${DIRSRCS_TRAFFIC_LIGHT}
+# ${DIRSRCS_OBSTACLE_COMMON}
+# ${DIRSRCS_OBSTACLE_COMMON_P}
+# ${DIRSRCS_OBSTACLE_FRBSD}
+# ${DIRSRCS_OBSTACLE_SUR}
+# ${DIRSRCS_OBSTACLE_SUPPLIER}
+${DIRSRCS_SURROUND}
 )
 
 add_library(advision SHARED
 ${DIRSRCS}
-${DIRSRCS_ADAPTER}
-${DIRSRCS_DATA_TASK}
-${DIR_PROTO_SRCS}
-${DIRSRCS_CALIBRATION}
-${DIRSRCS_OBSTACLE}
-${DIRSRCS_LANE}
-${DIRSRCS_SIGN}
-${DIRSRCS_TRAFFIC_LIGHT}
-${DIRSRCS_OBSTACLE_COMMON}
-${DIRSRCS_OBSTACLE_COMMON_P}
-${DIRSRCS_OBSTACLE_FRBSD}
-${DIRSRCS_OBSTACLE_SUR}
-${DIRSRCS_OBSTACLE_SUPPLIER}
+# ${DIRSRCS_ADAPTER}
+# ${DIRSRCS_DATA_TASK}
+# ${DIR_PROTO_SRCS}
+# ${DIRSRCS_CALIBRATION}
+# ${DIRSRCS_OBSTACLE}
+# ${DIRSRCS_LANE}
+# ${DIRSRCS_SIGN}
+# ${DIRSRCS_TRAFFIC_LIGHT}
+# ${DIRSRCS_OBSTACLE_COMMON}
+# ${DIRSRCS_OBSTACLE_COMMON_P}
+# ${DIRSRCS_OBSTACLE_FRBSD}
+# ${DIRSRCS_OBSTACLE_SUR}
+# ${DIRSRCS_OBSTACLE_SUPPLIER}
+${DIRSRCS_SURROUND}
 )
 
 set_target_properties(advision PROPERTIES OUTPUT_NAME "advision")
@@ -57,9 +60,11 @@ set_target_properties(advision PROPERTIES VERSION 1 SOVERSION 1)
 #if(BUILD_ATOM)
 target_link_libraries(
   vision 
-  adinterface adalgorithm adsensormodel adframework adpublic adcalibrationapi
+#  adinterface adalgorithm 
+	adsensormodel adframework adpublic 
+#	adcalibrationapi
 	hiredis log4cxx rt boost_thread protobuf zmq jpeg
-	adsensorcommon adcalmcarvision admobileyevision adleopardvision
+#	adsensorcommon adcalmcarvision admobileyevision adleopardvision
 	icsneocpp calmcar_sdk canlib restbed
 	${CMAKE_THREAD_LIBS_INIT} ${Boost_LIBRARIES} ${OpenCV_LIBS}
 )

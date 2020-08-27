@@ -8,11 +8,14 @@
 #include <log4cxx/propertyconfigurator.h>
 #include <log4cxx/helpers/exception.h>
 #include <log4cxx/logmanager.h>
-#include<iostream>
-#include<vector>
+#include <iostream>
+#include <vector>
+#include <opencv2/opencv.hpp>
 
-// #include <framework/ad_exception.h>
-#include "sv.h"
+#include <framework/ad_exception.h>
+#include "vision_processor.h"
+#include "surround/surround_view.h"
+
 int main()
 {
 //   try {
@@ -21,7 +24,7 @@ int main()
     
   //}
 	std::vector<cv::Mat> src(4);
-    int nNumImages = src.size();
+    // int nNumImages = src.size();
 	cv::Size nSizeWindows = cv::Size(2, 2);
 
 	//设置图像的大小，图像之间的间隔以及边界
@@ -48,7 +51,7 @@ int main()
 	// src[2] = imread("/home/xl/projects/autodrive/autodrive-vision/images/picturemerge/img2.jpg");
 	// src[3] = imread("/home/xl/projects/autodrive/autodrive-vision/images/picturemerge/img3.jpg");    
 
-	for (int i = 0; i < src.size(); i++)
+	for (std::uint8_t i = 0; i < src.size(); i++)
 	{
 		if (!src[i].data){
           std::cout << "read image file img" << i << " fail!" << std::endl;
@@ -56,8 +59,8 @@ int main()
         }
 			// return -1;
 	}
-	
-	service.showManyImages(src, cv::Size(512, 400), dst);
+	//cv::Size(512, 400)
+	service.stitch(src, dst);
     cv::imwrite(img_dir + "picturemerge.jpg", dst);
 	cv::waitKey(0);
 //   }

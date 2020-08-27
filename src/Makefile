@@ -192,35 +192,65 @@ opencv_test.cpp.s:
 	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/opencv_test.cpp.s
 .PHONY : opencv_test.cpp.s
 
-sv.o: sv.cpp.o
+surround/surround_view.o: surround/surround_view.cpp.o
 
-.PHONY : sv.o
+.PHONY : surround/surround_view.o
 
 # target to build an object file
-sv.cpp.o:
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/sv.cpp.o
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/sv.cpp.o
-.PHONY : sv.cpp.o
+surround/surround_view.cpp.o:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/surround/surround_view.cpp.o
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/surround/surround_view.cpp.o
+.PHONY : surround/surround_view.cpp.o
 
-sv.i: sv.cpp.i
+surround/surround_view.i: surround/surround_view.cpp.i
 
-.PHONY : sv.i
+.PHONY : surround/surround_view.i
 
 # target to preprocess a source file
-sv.cpp.i:
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/sv.cpp.i
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/sv.cpp.i
-.PHONY : sv.cpp.i
+surround/surround_view.cpp.i:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/surround/surround_view.cpp.i
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/surround/surround_view.cpp.i
+.PHONY : surround/surround_view.cpp.i
 
-sv.s: sv.cpp.s
+surround/surround_view.s: surround/surround_view.cpp.s
 
-.PHONY : sv.s
+.PHONY : surround/surround_view.s
 
 # target to generate assembly for a file
-sv.cpp.s:
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/sv.cpp.s
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/sv.cpp.s
-.PHONY : sv.cpp.s
+surround/surround_view.cpp.s:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/surround/surround_view.cpp.s
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/surround/surround_view.cpp.s
+.PHONY : surround/surround_view.cpp.s
+
+vision_processor.o: vision_processor.cpp.o
+
+.PHONY : vision_processor.o
+
+# target to build an object file
+vision_processor.cpp.o:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/vision_processor.cpp.o
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/vision_processor.cpp.o
+.PHONY : vision_processor.cpp.o
+
+vision_processor.i: vision_processor.cpp.i
+
+.PHONY : vision_processor.i
+
+# target to preprocess a source file
+vision_processor.cpp.i:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/vision_processor.cpp.i
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/vision_processor.cpp.i
+.PHONY : vision_processor.cpp.i
+
+vision_processor.s: vision_processor.cpp.s
+
+.PHONY : vision_processor.s
+
+# target to generate assembly for a file
+vision_processor.cpp.s:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/vision_processor.cpp.s
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/vision_processor.cpp.s
+.PHONY : vision_processor.cpp.s
 
 # Help Target
 help:
@@ -237,9 +267,12 @@ help:
 	@echo "... opencv_test.o"
 	@echo "... opencv_test.i"
 	@echo "... opencv_test.s"
-	@echo "... sv.o"
-	@echo "... sv.i"
-	@echo "... sv.s"
+	@echo "... surround/surround_view.o"
+	@echo "... surround/surround_view.i"
+	@echo "... surround/surround_view.s"
+	@echo "... vision_processor.o"
+	@echo "... vision_processor.i"
+	@echo "... vision_processor.s"
 .PHONY : help
 
 

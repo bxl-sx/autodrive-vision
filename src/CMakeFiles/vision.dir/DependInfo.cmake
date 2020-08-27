@@ -5,7 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/xl/projects/autodrive/autodrive-vision/src/opencv_test.cpp" "/home/xl/projects/autodrive/autodrive-vision/src/CMakeFiles/vision.dir/opencv_test.cpp.o"
-  "/home/xl/projects/autodrive/autodrive-vision/src/sv.cpp" "/home/xl/projects/autodrive/autodrive-vision/src/CMakeFiles/vision.dir/sv.cpp.o"
+  "/home/xl/projects/autodrive/autodrive-vision/src/surround/surround_view.cpp" "/home/xl/projects/autodrive/autodrive-vision/src/CMakeFiles/vision.dir/surround/surround_view.cpp.o"
+  "/home/xl/projects/autodrive/autodrive-vision/src/vision_processor.cpp" "/home/xl/projects/autodrive/autodrive-vision/src/CMakeFiles/vision.dir/vision_processor.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

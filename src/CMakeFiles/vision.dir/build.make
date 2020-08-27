@@ -57,28 +57,28 @@ include src/CMakeFiles/vision.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/CMakeFiles/vision.dir/flags.make
 
-src/CMakeFiles/vision.dir/sv.cpp.o: src/CMakeFiles/vision.dir/flags.make
-src/CMakeFiles/vision.dir/sv.cpp.o: src/sv.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/vision.dir/sv.cpp.o"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/vision.dir/sv.cpp.o -c /home/xl/projects/autodrive/autodrive-vision/src/sv.cpp
+src/CMakeFiles/vision.dir/vision_processor.cpp.o: src/CMakeFiles/vision.dir/flags.make
+src/CMakeFiles/vision.dir/vision_processor.cpp.o: src/vision_processor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/vision.dir/vision_processor.cpp.o"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/vision.dir/vision_processor.cpp.o -c /home/xl/projects/autodrive/autodrive-vision/src/vision_processor.cpp
 
-src/CMakeFiles/vision.dir/sv.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/vision.dir/sv.cpp.i"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xl/projects/autodrive/autodrive-vision/src/sv.cpp > CMakeFiles/vision.dir/sv.cpp.i
+src/CMakeFiles/vision.dir/vision_processor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/vision.dir/vision_processor.cpp.i"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xl/projects/autodrive/autodrive-vision/src/vision_processor.cpp > CMakeFiles/vision.dir/vision_processor.cpp.i
 
-src/CMakeFiles/vision.dir/sv.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/vision.dir/sv.cpp.s"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xl/projects/autodrive/autodrive-vision/src/sv.cpp -o CMakeFiles/vision.dir/sv.cpp.s
+src/CMakeFiles/vision.dir/vision_processor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/vision.dir/vision_processor.cpp.s"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xl/projects/autodrive/autodrive-vision/src/vision_processor.cpp -o CMakeFiles/vision.dir/vision_processor.cpp.s
 
-src/CMakeFiles/vision.dir/sv.cpp.o.requires:
+src/CMakeFiles/vision.dir/vision_processor.cpp.o.requires:
 
-.PHONY : src/CMakeFiles/vision.dir/sv.cpp.o.requires
+.PHONY : src/CMakeFiles/vision.dir/vision_processor.cpp.o.requires
 
-src/CMakeFiles/vision.dir/sv.cpp.o.provides: src/CMakeFiles/vision.dir/sv.cpp.o.requires
-	$(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/sv.cpp.o.provides.build
-.PHONY : src/CMakeFiles/vision.dir/sv.cpp.o.provides
+src/CMakeFiles/vision.dir/vision_processor.cpp.o.provides: src/CMakeFiles/vision.dir/vision_processor.cpp.o.requires
+	$(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/vision_processor.cpp.o.provides.build
+.PHONY : src/CMakeFiles/vision.dir/vision_processor.cpp.o.provides
 
-src/CMakeFiles/vision.dir/sv.cpp.o.provides.build: src/CMakeFiles/vision.dir/sv.cpp.o
+src/CMakeFiles/vision.dir/vision_processor.cpp.o.provides.build: src/CMakeFiles/vision.dir/vision_processor.cpp.o
 
 
 src/CMakeFiles/vision.dir/opencv_test.cpp.o: src/CMakeFiles/vision.dir/flags.make
@@ -105,16 +105,42 @@ src/CMakeFiles/vision.dir/opencv_test.cpp.o.provides: src/CMakeFiles/vision.dir/
 src/CMakeFiles/vision.dir/opencv_test.cpp.o.provides.build: src/CMakeFiles/vision.dir/opencv_test.cpp.o
 
 
+src/CMakeFiles/vision.dir/surround/surround_view.cpp.o: src/CMakeFiles/vision.dir/flags.make
+src/CMakeFiles/vision.dir/surround/surround_view.cpp.o: src/surround/surround_view.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/vision.dir/surround/surround_view.cpp.o"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/vision.dir/surround/surround_view.cpp.o -c /home/xl/projects/autodrive/autodrive-vision/src/surround/surround_view.cpp
+
+src/CMakeFiles/vision.dir/surround/surround_view.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/vision.dir/surround/surround_view.cpp.i"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xl/projects/autodrive/autodrive-vision/src/surround/surround_view.cpp > CMakeFiles/vision.dir/surround/surround_view.cpp.i
+
+src/CMakeFiles/vision.dir/surround/surround_view.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/vision.dir/surround/surround_view.cpp.s"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xl/projects/autodrive/autodrive-vision/src/surround/surround_view.cpp -o CMakeFiles/vision.dir/surround/surround_view.cpp.s
+
+src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.requires:
+
+.PHONY : src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.requires
+
+src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.provides: src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.requires
+	$(MAKE) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.provides.build
+.PHONY : src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.provides
+
+src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.provides.build: src/CMakeFiles/vision.dir/surround/surround_view.cpp.o
+
+
 # Object files for target vision
 vision_OBJECTS = \
-"CMakeFiles/vision.dir/sv.cpp.o" \
-"CMakeFiles/vision.dir/opencv_test.cpp.o"
+"CMakeFiles/vision.dir/vision_processor.cpp.o" \
+"CMakeFiles/vision.dir/opencv_test.cpp.o" \
+"CMakeFiles/vision.dir/surround/surround_view.cpp.o"
 
 # External object files for target vision
 vision_EXTERNAL_OBJECTS =
 
-bin/vision: src/CMakeFiles/vision.dir/sv.cpp.o
+bin/vision: src/CMakeFiles/vision.dir/vision_processor.cpp.o
 bin/vision: src/CMakeFiles/vision.dir/opencv_test.cpp.o
+bin/vision: src/CMakeFiles/vision.dir/surround/surround_view.cpp.o
 bin/vision: src/CMakeFiles/vision.dir/build.make
 bin/vision: icsneo/libicsneocpp.a
 bin/vision: /usr/local/lib/libopencv_stitching.so.3.4.1
@@ -137,7 +163,7 @@ bin/vision: /usr/local/lib/libopencv_video.so.3.4.1
 bin/vision: /usr/local/lib/libopencv_imgproc.so.3.4.1
 bin/vision: /usr/local/lib/libopencv_core.so.3.4.1
 bin/vision: src/CMakeFiles/vision.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ../bin/vision"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../bin/vision"
 	cd /home/xl/projects/autodrive/autodrive-vision/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/vision.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -145,8 +171,9 @@ src/CMakeFiles/vision.dir/build: bin/vision
 
 .PHONY : src/CMakeFiles/vision.dir/build
 
-src/CMakeFiles/vision.dir/requires: src/CMakeFiles/vision.dir/sv.cpp.o.requires
+src/CMakeFiles/vision.dir/requires: src/CMakeFiles/vision.dir/vision_processor.cpp.o.requires
 src/CMakeFiles/vision.dir/requires: src/CMakeFiles/vision.dir/opencv_test.cpp.o.requires
+src/CMakeFiles/vision.dir/requires: src/CMakeFiles/vision.dir/surround/surround_view.cpp.o.requires
 
 .PHONY : src/CMakeFiles/vision.dir/requires
 
