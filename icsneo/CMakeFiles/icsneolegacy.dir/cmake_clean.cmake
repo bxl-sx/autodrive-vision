@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/icsneolegacy.dir/api/icsneoc/icsneoc.cpp.o"
   "CMakeFiles/icsneolegacy.dir/api/icsneolegacy/icsneolegacy.cpp.o"
   "CMakeFiles/icsneolegacy.dir/api/icsneolegacy/icsneolegacyextra.cpp.o"
-  "CMakeFiles/icsneolegacy.dir/api/icsneoc/icsneoc.cpp.o"
   "libicsneolegacy.pdb"
   "libicsneolegacy.so"
 )

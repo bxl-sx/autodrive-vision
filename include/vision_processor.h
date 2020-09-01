@@ -8,6 +8,9 @@
 
 #include <framework/ad_service.h>
 #include <framework/ad_scheduler.h>
+#include <framework/ad_channel_socket.h>
+#include <protocol/circular_queue.h>
+#include <common_settings.h>
 #include <log4cxx/logger.h>
 
 #include "framework/ad_redis_manager.h"
@@ -32,9 +35,9 @@ class VisionProcessor final : public AdService {
 
   ~VisionProcessor() noexcept final;
   VisionProcessor(VisionProcessor const&) = delete;
-  VisionProcessor& oprator=(VisionProcessor const&) = delete;
+  VisionProcessor& operator=(VisionProcessor const&) = delete;
   VisionProcessor(VisionProcessor&&) = delete;
-  VisionProcessor& oprator=(VisionProcessor&&) = delete;
+  VisionProcessor& operator=(VisionProcessor&&) = delete;
 
   void Init(std::string const& config_file_name,
       std::function<std::shared_ptr<AdChannel>(std::string const& type,

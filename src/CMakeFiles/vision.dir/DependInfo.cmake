@@ -24,10 +24,9 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../thirdparty/threadpool"
   "../thirdparty/calmcar/src"
   "../thirdparty/restbed/distribution/include"
-  "/usr/local/include"
-  "/usr/local/include/opencv"
   "/home/xl/projects/autodrive/thirdparty/libicsneo/include"
   "/home/xl/projects/autodrive/thirdparty/libicsneo/third-party/libftdi/src"
+  "/usr/local/include/opencv"
   )
 
 # Targets to which this target links.

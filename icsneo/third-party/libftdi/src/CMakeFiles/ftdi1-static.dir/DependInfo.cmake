@@ -26,7 +26,6 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../thirdparty/threadpool"
   "../thirdparty/calmcar/src"
   "../thirdparty/restbed/distribution/include"
-  "/usr/local/include"
   "/usr/local/include/opencv"
   "/usr/include/libusb-1.0"
   )

@@ -8,6 +8,7 @@
 #include <log4cxx/logger.h>
 
 #include <opencv2/opencv.hpp>
+// #include <common_settings.h>
 
 namespace autodrive{
 namespace vision{
@@ -47,13 +48,13 @@ void VisionProcessor::StartUp() noexcept(false) {
   if (GetStatus() == AdService::Status::INITIALIZED ||
       GetStatus() == AdService::Status::STOPPED) {
     auto now{std::chrono::system_clock::now()};
-    AdScheduler::Task task{std::bind(&VisionProcessor::mat_task, this), now, 0,
-      resource_manager.GetPriority(CommonSettings::kCameraServiceTaskName),
-      resource_manager.GetCpuMask(CommonSettings::kCameraServiceTaskName)};
-    //start surround view stitch
-    // SurroundView::GetInstance().stitch();
-    // image_task();
-    scheduler.Schedule(std::move(task));
+    // AdScheduler::Task task{std::bind(&VisionProcessor::mat_task, this), now, 0,
+    //   resource_manager.GetPriority(CommonSettings::kCameraServiceTaskName),
+    //   resource_manager.GetCpuMask(CommonSettings::kCameraServiceTaskName)};
+    // //start surround view stitch
+    // // SurroundView::GetInstance().stitch();
+    // // image_task();
+    // scheduler.Schedule(std::move(task));
     }
 
     std::cout << "Status RUNNING" << std::endl;

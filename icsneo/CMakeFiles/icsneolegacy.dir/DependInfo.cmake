@@ -10,6 +10,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "icsneolegacy_EXPORTS"
+  )
+
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "icsneo"
@@ -25,7 +30,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../thirdparty/threadpool"
   "../thirdparty/calmcar/src"
   "../thirdparty/restbed/distribution/include"
-  "/usr/local/include"
   "/usr/local/include/opencv"
   "/home/xl/projects/autodrive/thirdparty/libicsneo/include"
   "/home/xl/projects/autodrive/thirdparty/libicsneo/third-party/libftdi/src"

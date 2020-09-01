@@ -9,6 +9,11 @@ set(CMAKE_DEPENDS_CHECK_C
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_C
+  "ftdi1_EXPORTS"
+  )
+
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
   "/home/xl/projects/autodrive/thirdparty/libicsneo/third-party/libftdi/src"
@@ -26,7 +31,6 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../thirdparty/threadpool"
   "../thirdparty/calmcar/src"
   "../thirdparty/restbed/distribution/include"
-  "/usr/local/include"
   "/usr/local/include/opencv"
   "/usr/include/libusb-1.0"
   )
