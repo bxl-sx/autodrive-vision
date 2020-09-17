@@ -39,9 +39,9 @@ class VisionProcessor final : public AdService {
   VisionProcessor(VisionProcessor&&) = delete;
   VisionProcessor& operator=(VisionProcessor&&) = delete;
 
-  void Init(std::string const& config_file_name,
-      std::function<std::shared_ptr<AdChannel>(std::string const& type,
-      AdChannel::Mode mode)> get_channel) noexcept(false);  
+  // void Init(std::string const& config_file_name,
+  //     std::function<std::shared_ptr<AdChannel>(std::string const& type,
+  //     AdChannel::Mode mode)> get_channel) noexcept(false);  
   
   void Init(std::string const& config_file_path) noexcept(false);
   

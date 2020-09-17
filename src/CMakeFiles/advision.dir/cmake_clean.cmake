@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "../lib/libadvision.pdb"
-  "../lib/libadvision.so"
-  "../lib/libadvision.so.1"
-  "CMakeFiles/advision.dir/opencv_test.cpp.o"
+  "../build/lib/libadvision.pdb"
+  "../build/lib/libadvision.so"
+  "../build/lib/libadvision.so.1"
+  "CMakeFiles/advision.dir/main.cpp.o"
   "CMakeFiles/advision.dir/surround/surround_view.cpp.o"
   "CMakeFiles/advision.dir/vision_processor.cpp.o"
 )

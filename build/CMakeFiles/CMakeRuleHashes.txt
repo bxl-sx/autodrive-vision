@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+a38d8b60e0a2fc6fe9d120ba7d1285eb icsneo/third-party/libftdi/CMakeFiles/dist

@@ -76,18 +76,18 @@ include src/CMakeFiles/vision.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/CMakeFiles/vision.dir/flags.make
 
-src/CMakeFiles/vision.dir/opencv_test.cpp.o: src/CMakeFiles/vision.dir/flags.make
-src/CMakeFiles/vision.dir/opencv_test.cpp.o: src/opencv_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/vision.dir/opencv_test.cpp.o"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/vision.dir/opencv_test.cpp.o -c /home/xl/projects/autodrive/autodrive-vision/src/opencv_test.cpp
+src/CMakeFiles/vision.dir/main.cpp.o: src/CMakeFiles/vision.dir/flags.make
+src/CMakeFiles/vision.dir/main.cpp.o: src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/vision.dir/main.cpp.o"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/vision.dir/main.cpp.o -c /home/xl/projects/autodrive/autodrive-vision/src/main.cpp
 
-src/CMakeFiles/vision.dir/opencv_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/vision.dir/opencv_test.cpp.i"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xl/projects/autodrive/autodrive-vision/src/opencv_test.cpp > CMakeFiles/vision.dir/opencv_test.cpp.i
+src/CMakeFiles/vision.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/vision.dir/main.cpp.i"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xl/projects/autodrive/autodrive-vision/src/main.cpp > CMakeFiles/vision.dir/main.cpp.i
 
-src/CMakeFiles/vision.dir/opencv_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/vision.dir/opencv_test.cpp.s"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xl/projects/autodrive/autodrive-vision/src/opencv_test.cpp -o CMakeFiles/vision.dir/opencv_test.cpp.s
+src/CMakeFiles/vision.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/vision.dir/main.cpp.s"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xl/projects/autodrive/autodrive-vision/src/main.cpp -o CMakeFiles/vision.dir/main.cpp.s
 
 src/CMakeFiles/vision.dir/vision_processor.cpp.o: src/CMakeFiles/vision.dir/flags.make
 src/CMakeFiles/vision.dir/vision_processor.cpp.o: src/vision_processor.cpp
@@ -117,44 +117,42 @@ src/CMakeFiles/vision.dir/surround/surround_view.cpp.s: cmake_force
 
 # Object files for target vision
 vision_OBJECTS = \
-"CMakeFiles/vision.dir/opencv_test.cpp.o" \
+"CMakeFiles/vision.dir/main.cpp.o" \
 "CMakeFiles/vision.dir/vision_processor.cpp.o" \
 "CMakeFiles/vision.dir/surround/surround_view.cpp.o"
 
 # External object files for target vision
 vision_EXTERNAL_OBJECTS =
 
-bin/vision: src/CMakeFiles/vision.dir/opencv_test.cpp.o
-bin/vision: src/CMakeFiles/vision.dir/vision_processor.cpp.o
-bin/vision: src/CMakeFiles/vision.dir/surround/surround_view.cpp.o
-bin/vision: src/CMakeFiles/vision.dir/build.make
-bin/vision: icsneo/libicsneocpp.a
-bin/vision: /usr/local/lib/libopencv_dnn.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_ml.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_objdetect.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_shape.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_stitching.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_superres.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_videostab.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_viz.so.3.4.1
-bin/vision: icsneo/third-party/libftdi/src/libftdi1.a
-bin/vision: /usr/lib/x86_64-linux-gnu/libusb-1.0.so
-bin/vision: /usr/local/lib/libopencv_calib3d.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_features2d.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_flann.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_highgui.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_photo.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_video.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_videoio.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_imgcodecs.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_imgproc.so.3.4.1
-bin/vision: /usr/local/lib/libopencv_core.so.3.4.1
-bin/vision: src/CMakeFiles/vision.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../bin/vision"
+build/vision: src/CMakeFiles/vision.dir/main.cpp.o
+build/vision: src/CMakeFiles/vision.dir/vision_processor.cpp.o
+build/vision: src/CMakeFiles/vision.dir/surround/surround_view.cpp.o
+build/vision: src/CMakeFiles/vision.dir/build.make
+build/vision: /usr/local/lib/libopencv_dnn.so.3.4.1
+build/vision: /usr/local/lib/libopencv_ml.so.3.4.1
+build/vision: /usr/local/lib/libopencv_objdetect.so.3.4.1
+build/vision: /usr/local/lib/libopencv_shape.so.3.4.1
+build/vision: /usr/local/lib/libopencv_stitching.so.3.4.1
+build/vision: /usr/local/lib/libopencv_superres.so.3.4.1
+build/vision: /usr/local/lib/libopencv_videostab.so.3.4.1
+build/vision: /usr/local/lib/libopencv_viz.so.3.4.1
+build/vision: /usr/lib/x86_64-linux-gnu/libusb-1.0.so
+build/vision: /usr/local/lib/libopencv_calib3d.so.3.4.1
+build/vision: /usr/local/lib/libopencv_features2d.so.3.4.1
+build/vision: /usr/local/lib/libopencv_flann.so.3.4.1
+build/vision: /usr/local/lib/libopencv_highgui.so.3.4.1
+build/vision: /usr/local/lib/libopencv_photo.so.3.4.1
+build/vision: /usr/local/lib/libopencv_video.so.3.4.1
+build/vision: /usr/local/lib/libopencv_videoio.so.3.4.1
+build/vision: /usr/local/lib/libopencv_imgcodecs.so.3.4.1
+build/vision: /usr/local/lib/libopencv_imgproc.so.3.4.1
+build/vision: /usr/local/lib/libopencv_core.so.3.4.1
+build/vision: src/CMakeFiles/vision.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../build/vision"
 	cd /home/xl/projects/autodrive/autodrive-vision/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/vision.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/CMakeFiles/vision.dir/build: bin/vision
+src/CMakeFiles/vision.dir/build: build/vision
 
 .PHONY : src/CMakeFiles/vision.dir/build
 

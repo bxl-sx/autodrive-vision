@@ -181,35 +181,35 @@ vision/fast:
 	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/build
 .PHONY : vision/fast
 
-opencv_test.o: opencv_test.cpp.o
+main.o: main.cpp.o
 
-.PHONY : opencv_test.o
+.PHONY : main.o
 
 # target to build an object file
-opencv_test.cpp.o:
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/opencv_test.cpp.o
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/opencv_test.cpp.o
-.PHONY : opencv_test.cpp.o
+main.cpp.o:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/main.cpp.o
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-opencv_test.i: opencv_test.cpp.i
+main.i: main.cpp.i
 
-.PHONY : opencv_test.i
+.PHONY : main.i
 
 # target to preprocess a source file
-opencv_test.cpp.i:
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/opencv_test.cpp.i
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/opencv_test.cpp.i
-.PHONY : opencv_test.cpp.i
+main.cpp.i:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/main.cpp.i
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-opencv_test.s: opencv_test.cpp.s
+main.s: main.cpp.s
 
-.PHONY : opencv_test.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-opencv_test.cpp.s:
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/opencv_test.cpp.s
-	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/opencv_test.cpp.s
-.PHONY : opencv_test.cpp.s
+main.cpp.s:
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/advision.dir/build.make src/CMakeFiles/advision.dir/main.cpp.s
+	cd /home/xl/projects/autodrive/autodrive-vision && $(MAKE) $(MAKESILENT) -f src/CMakeFiles/vision.dir/build.make src/CMakeFiles/vision.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 surround/surround_view.o: surround/surround_view.cpp.o
 
@@ -283,9 +283,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... advision"
 	@echo "... vision"
-	@echo "... opencv_test.o"
-	@echo "... opencv_test.i"
-	@echo "... opencv_test.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 	@echo "... surround/surround_view.o"
 	@echo "... surround/surround_view.i"
 	@echo "... surround/surround_view.s"

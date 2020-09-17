@@ -76,18 +76,18 @@ include src/CMakeFiles/advision.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/CMakeFiles/advision.dir/flags.make
 
-src/CMakeFiles/advision.dir/opencv_test.cpp.o: src/CMakeFiles/advision.dir/flags.make
-src/CMakeFiles/advision.dir/opencv_test.cpp.o: src/opencv_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/advision.dir/opencv_test.cpp.o"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/advision.dir/opencv_test.cpp.o -c /home/xl/projects/autodrive/autodrive-vision/src/opencv_test.cpp
+src/CMakeFiles/advision.dir/main.cpp.o: src/CMakeFiles/advision.dir/flags.make
+src/CMakeFiles/advision.dir/main.cpp.o: src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/advision.dir/main.cpp.o"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/advision.dir/main.cpp.o -c /home/xl/projects/autodrive/autodrive-vision/src/main.cpp
 
-src/CMakeFiles/advision.dir/opencv_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/advision.dir/opencv_test.cpp.i"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xl/projects/autodrive/autodrive-vision/src/opencv_test.cpp > CMakeFiles/advision.dir/opencv_test.cpp.i
+src/CMakeFiles/advision.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/advision.dir/main.cpp.i"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/xl/projects/autodrive/autodrive-vision/src/main.cpp > CMakeFiles/advision.dir/main.cpp.i
 
-src/CMakeFiles/advision.dir/opencv_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/advision.dir/opencv_test.cpp.s"
-	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xl/projects/autodrive/autodrive-vision/src/opencv_test.cpp -o CMakeFiles/advision.dir/opencv_test.cpp.s
+src/CMakeFiles/advision.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/advision.dir/main.cpp.s"
+	cd /home/xl/projects/autodrive/autodrive-vision/src && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/xl/projects/autodrive/autodrive-vision/src/main.cpp -o CMakeFiles/advision.dir/main.cpp.s
 
 src/CMakeFiles/advision.dir/vision_processor.cpp.o: src/CMakeFiles/advision.dir/flags.make
 src/CMakeFiles/advision.dir/vision_processor.cpp.o: src/vision_processor.cpp
@@ -117,27 +117,27 @@ src/CMakeFiles/advision.dir/surround/surround_view.cpp.s: cmake_force
 
 # Object files for target advision
 advision_OBJECTS = \
-"CMakeFiles/advision.dir/opencv_test.cpp.o" \
+"CMakeFiles/advision.dir/main.cpp.o" \
 "CMakeFiles/advision.dir/vision_processor.cpp.o" \
 "CMakeFiles/advision.dir/surround/surround_view.cpp.o"
 
 # External object files for target advision
 advision_EXTERNAL_OBJECTS =
 
-lib/libadvision.so.1: src/CMakeFiles/advision.dir/opencv_test.cpp.o
-lib/libadvision.so.1: src/CMakeFiles/advision.dir/vision_processor.cpp.o
-lib/libadvision.so.1: src/CMakeFiles/advision.dir/surround/surround_view.cpp.o
-lib/libadvision.so.1: src/CMakeFiles/advision.dir/build.make
-lib/libadvision.so.1: src/CMakeFiles/advision.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library ../lib/libadvision.so"
+build/lib/libadvision.so.1: src/CMakeFiles/advision.dir/main.cpp.o
+build/lib/libadvision.so.1: src/CMakeFiles/advision.dir/vision_processor.cpp.o
+build/lib/libadvision.so.1: src/CMakeFiles/advision.dir/surround/surround_view.cpp.o
+build/lib/libadvision.so.1: src/CMakeFiles/advision.dir/build.make
+build/lib/libadvision.so.1: src/CMakeFiles/advision.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/xl/projects/autodrive/autodrive-vision/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX shared library ../build/lib/libadvision.so"
 	cd /home/xl/projects/autodrive/autodrive-vision/src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/advision.dir/link.txt --verbose=$(VERBOSE)
-	cd /home/xl/projects/autodrive/autodrive-vision/src && $(CMAKE_COMMAND) -E cmake_symlink_library ../lib/libadvision.so.1 ../lib/libadvision.so.1 ../lib/libadvision.so
+	cd /home/xl/projects/autodrive/autodrive-vision/src && $(CMAKE_COMMAND) -E cmake_symlink_library ../build/lib/libadvision.so.1 ../build/lib/libadvision.so.1 ../build/lib/libadvision.so
 
-lib/libadvision.so: lib/libadvision.so.1
-	@$(CMAKE_COMMAND) -E touch_nocreate lib/libadvision.so
+build/lib/libadvision.so: build/lib/libadvision.so.1
+	@$(CMAKE_COMMAND) -E touch_nocreate build/lib/libadvision.so
 
 # Rule to build all files generated by this target.
-src/CMakeFiles/advision.dir/build: lib/libadvision.so
+src/CMakeFiles/advision.dir/build: build/lib/libadvision.so
 
 .PHONY : src/CMakeFiles/advision.dir/build
 

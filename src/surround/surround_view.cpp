@@ -10,6 +10,8 @@ SurroundView& SurroundView::GetInstance() noexcept {
   return instance;
 }
 
+void SurroundView::Init(std::string const& yml_file_dir)noexcept(false){}
+
 //在一幅图像上显示多张图像
 void SurroundView::stitch(std::vector<Mat>& src, cv::Mat& dst)
 {

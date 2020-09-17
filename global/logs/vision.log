@@ -1,0 +1,817 @@
+[INFO ] 2020-09-17 17:09:49,725 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_service.cpp(86) : Debug mode
+[ERROR] 2020-09-17 17:09:49,727 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:49,727 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:50,728 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:50,728 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:51,728 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:51,728 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:52,728 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:52,729 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:53,729 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:53,729 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:54,729 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:54,730 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:55,731 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:55,731 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:56,731 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:56,731 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:57,732 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:57,732 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:58,732 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:58,732 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:09:59,733 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:09:59,733 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:00,733 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:00,734 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:01,734 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:01,734 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:02,734 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:02,735 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:03,735 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:03,735 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:04,736 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:04,736 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:05,736 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:05,736 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:06,737 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:06,737 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:07,737 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:07,737 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:08,738 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:08,738 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:09,738 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:09,738 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:10,739 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:10,739 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:11,739 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:11,739 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:12,740 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:12,740 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:13,740 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:13,740 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:14,741 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:14,741 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:15,741 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:15,741 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:16,742 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:16,742 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:17,742 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:17,742 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:18,743 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:18,743 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:19,743 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:19,743 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:20,743 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:20,744 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:21,744 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:21,744 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:22,744 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:22,745 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:23,745 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:23,745 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:24,745 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:24,745 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:25,746 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:25,747 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:26,747 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:26,747 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:27,747 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:27,748 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:28,748 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:28,748 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:29,749 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:29,749 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:30,750 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:30,750 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:31,750 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:31,750 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:32,751 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:32,751 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:33,751 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:33,751 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[INFO ] 2020-09-17 17:10:54,585 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_service.cpp(86) : Debug mode
+[ERROR] 2020-09-17 17:10:56,943 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:56,944 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:57,944 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:57,944 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:58,944 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:58,944 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:10:59,945 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:10:59,945 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:00,946 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:00,946 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:01,947 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:01,947 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:02,947 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:02,948 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:03,948 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:03,948 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:04,949 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:04,949 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:05,950 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:05,950 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:06,950 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:06,950 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:07,951 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:07,951 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:08,951 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:08,952 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:09,952 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:09,952 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:10,952 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:10,953 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:11,953 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:11,953 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:12,954 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:12,954 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:13,954 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:13,954 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:14,955 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:14,955 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:15,956 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:15,956 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:16,956 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:16,957 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:17,957 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:17,957 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:18,957 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:18,957 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:19,958 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:19,958 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:20,959 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:20,959 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:21,960 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:21,960 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:22,960 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:22,960 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:23,960 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:23,961 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:24,961 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:24,961 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:25,962 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:25,962 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:26,963 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:26,963 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:27,963 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:27,963 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:28,964 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:28,964 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:29,964 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:29,964 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:30,965 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:30,965 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:31,966 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:31,966 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:32,966 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:32,966 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:33,967 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:33,967 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:34,967 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:34,967 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:35,969 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:35,969 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:36,969 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:36,969 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:37,969 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:37,969 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:38,970 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:38,970 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:39,970 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:39,970 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:40,971 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:40,971 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:41,971 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:41,971 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:42,971 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:42,971 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:43,972 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:43,972 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:44,972 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:44,972 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:45,973 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:45,973 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:46,973 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:46,973 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:47,974 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:47,974 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:48,974 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:48,974 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:49,975 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:49,975 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:50,975 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:50,975 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:51,976 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:51,976 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:52,976 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:52,976 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:53,976 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:53,976 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:54,977 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:54,977 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:55,977 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:55,977 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:56,977 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:56,977 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:57,978 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:57,978 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:58,978 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:58,978 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:11:59,979 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:11:59,979 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:00,979 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:00,979 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:01,980 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:01,980 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:02,980 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:02,980 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:03,980 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:03,980 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:04,982 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:04,982 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:05,982 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:05,982 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:06,983 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:06,983 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:07,983 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:07,983 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:08,983 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:08,984 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:09,984 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:09,984 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:10,984 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:10,985 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:11,985 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:11,985 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:12,985 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:12,985 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:13,986 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:13,986 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:14,986 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:14,986 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:15,986 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:15,987 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:16,987 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:16,987 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:17,987 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:17,987 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:18,988 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:18,988 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:19,988 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:19,988 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:20,988 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:20,988 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:21,989 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:21,989 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:22,989 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:22,989 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:23,990 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:23,990 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:24,990 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:24,990 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:25,991 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:25,991 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:26,991 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:26,991 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:27,991 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:27,992 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:28,992 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:28,992 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:29,992 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:29,992 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:30,993 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:30,993 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:31,993 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:31,993 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:32,993 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:32,994 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:33,994 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:33,994 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:34,994 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:34,994 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:35,995 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:35,995 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:36,995 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:36,995 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:37,995 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:37,996 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:38,996 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:38,996 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:39,996 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:39,996 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:40,997 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:40,997 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:41,998 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:41,998 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:42,998 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:42,998 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:43,999 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:43,999 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:44,999 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:44,999 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:45,999 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:45,999 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:47,000 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:47,000 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:48,000 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:48,000 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:49,001 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:49,001 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:50,001 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:50,001 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:51,002 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:51,002 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:52,002 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:52,002 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:53,002 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:53,002 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:54,003 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:54,003 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:55,003 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:55,003 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:56,004 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:56,004 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:57,004 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:57,004 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:58,005 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:58,005 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:12:59,005 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:12:59,005 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:00,006 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:00,006 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:01,006 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:01,007 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:02,007 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:02,007 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:03,008 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:03,009 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:04,009 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:04,009 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:05,009 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:05,009 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:06,010 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:06,010 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:07,010 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:07,010 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:08,011 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:08,012 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:09,012 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:09,012 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:10,012 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:10,012 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:11,013 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:11,013 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:12,013 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:12,013 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:13,014 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:13,014 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:14,015 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:14,015 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:15,015 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:15,015 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:16,016 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:16,016 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:17,016 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:17,016 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:18,017 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:18,017 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:19,018 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:19,018 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:20,018 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:20,018 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:21,019 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:21,019 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:22,019 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:22,019 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:23,020 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:23,020 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:24,021 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:24,021 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:25,021 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:25,021 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:26,022 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:26,022 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:27,022 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:27,023 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:28,024 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:28,024 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:29,024 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:29,024 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:30,025 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:30,025 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:31,025 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:31,025 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:32,025 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:32,026 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:33,026 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:33,026 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:34,026 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:34,026 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:35,027 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:35,027 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:36,027 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:36,027 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:37,028 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:37,028 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:38,029 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:38,029 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:39,029 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:39,029 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:40,029 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:40,030 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:41,030 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:41,030 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:42,030 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:42,030 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:43,031 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:43,031 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:44,031 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:44,031 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:45,032 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:45,032 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:46,032 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:46,032 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:47,032 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:47,033 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:48,033 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:48,033 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:49,033 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:49,033 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:50,034 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:50,034 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:51,034 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:51,034 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:52,034 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:52,034 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:53,035 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:53,035 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:54,035 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:54,035 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:55,035 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:55,036 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:56,036 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:56,036 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:57,036 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:57,036 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:58,037 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:58,037 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:13:59,037 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:13:59,037 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:00,038 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:00,039 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:01,039 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:01,039 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:02,040 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:02,040 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:03,040 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:03,040 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:04,040 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:04,041 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:05,042 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:05,042 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:06,042 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:06,042 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:07,043 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:07,043 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:08,043 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:08,043 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:09,044 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:09,044 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:10,045 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:10,045 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:11,045 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:11,045 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:12,046 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:12,046 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:13,046 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:13,046 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:14,047 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:14,047 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:15,048 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:15,048 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:16,048 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:16,048 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:17,049 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:17,049 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:18,049 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:18,049 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:19,050 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:19,050 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:20,050 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:20,051 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:21,051 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:21,051 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:22,051 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:22,051 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:23,052 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:23,052 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:24,052 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:24,052 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:25,053 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:25,053 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:26,054 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:26,054 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:27,054 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:27,054 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:28,055 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:28,055 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:29,055 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:29,055 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:30,055 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:30,056 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:14:31,056 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:14:31,056 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[INFO ] 2020-09-17 17:15:00,867 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_service.cpp(86) : Debug mode
+[ERROR] 2020-09-17 17:19:27,415 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:27,415 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:28,416 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:28,416 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:29,416 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:29,416 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:30,417 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:30,417 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:31,417 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:31,417 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:32,418 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:32,418 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:33,418 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:33,418 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:34,418 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:34,419 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:35,419 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:35,419 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:36,419 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:36,420 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:37,420 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:37,420 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:38,421 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:38,421 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:39,421 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:39,422 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:40,422 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:40,422 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:41,422 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:41,422 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:42,423 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:42,423 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:43,424 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:43,424 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:44,424 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:44,425 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:45,425 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:45,425 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:46,425 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:46,425 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:47,426 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:47,426 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:48,427 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:48,427 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:49,427 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:49,427 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:50,428 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:50,428 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:51,428 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:51,428 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:52,429 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:52,429 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:53,430 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:53,430 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:54,430 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:54,430 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:55,431 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:55,431 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:56,431 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:56,431 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:57,432 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:57,432 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:58,433 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:58,433 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:19:59,433 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:19:59,433 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:00,434 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:00,434 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:01,434 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:01,434 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:02,435 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:02,435 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:03,436 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:03,436 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:04,436 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:04,437 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:05,437 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:05,437 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:06,437 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:06,437 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:07,438 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:07,438 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:08,438 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:08,439 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:09,439 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:09,439 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:10,439 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:10,440 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:11,440 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:11,440 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:12,440 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:12,440 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:13,441 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:13,442 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:14,442 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:14,442 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:15,442 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:15,443 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:16,443 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:16,443 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:17,443 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:17,443 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:18,445 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:18,445 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:19,445 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:19,445 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:20,445 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:20,445 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:21,446 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:21,446 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:22,446 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:22,446 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:23,447 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:23,448 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:24,448 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:24,448 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:25,448 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:25,448 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:26,449 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:26,449 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:27,449 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:27,449 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:28,450 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:28,451 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:29,451 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:29,451 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:30,451 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:30,451 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:31,452 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:31,452 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:32,452 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:32,452 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:33,454 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:33,454 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:34,454 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:34,454 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:35,455 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:35,455 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:36,455 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:36,455 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:37,455 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:37,455 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:38,457 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:38,457 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:39,457 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:39,457 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:40,457 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:40,457 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:41,458 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:41,458 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:42,458 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:42,458 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:43,459 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:43,460 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:44,460 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:44,460 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:45,460 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:45,460 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:46,461 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:46,461 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:47,461 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:47,461 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:48,462 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:48,462 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:49,463 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:49,463 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:50,464 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:50,464 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:51,464 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:51,464 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:52,465 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:52,465 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:53,465 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:53,465 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:54,465 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:54,466 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:55,466 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:55,466 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:56,466 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:56,466 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:57,467 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:57,467 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:58,467 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:58,467 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:20:59,468 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:20:59,468 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:00,468 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:00,468 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:01,468 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:01,468 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:02,469 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:02,469 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:03,469 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:03,470 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:04,470 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:04,470 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:05,472 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:05,472 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:06,472 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:06,473 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:07,473 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:07,473 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:08,473 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:08,474 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:09,474 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:09,474 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:10,474 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:10,475 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:11,475 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:11,475 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:12,475 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:12,475 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:13,476 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:13,476 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:14,476 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:14,476 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:15,477 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:15,477 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:16,477 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:16,477 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:17,478 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:17,478 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:18,478 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:18,478 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:19,479 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:19,479 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:20,479 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:20,479 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:21,480 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:21,480 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:22,480 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:22,480 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:23,481 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:23,481 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:24,481 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:24,482 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:25,483 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:25,483 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:26,483 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:26,483 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:27,484 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:27,484 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:28,484 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:28,484 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:29,485 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:29,485 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:30,486 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:30,486 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:31,487 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:31,487 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:32,487 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:32,487 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:33,488 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:33,488 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:34,488 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:34,488 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:35,489 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:35,490 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:36,490 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:36,490 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:37,490 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:37,491 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:38,491 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:38,491 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:39,491 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:39,492 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:40,493 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:40,493 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:41,493 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:41,493 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:42,493 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:42,494 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:43,494 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:43,494 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:44,495 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:44,495 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:45,495 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:45,495 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:46,496 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:46,496 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:47,496 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:47,496 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:48,497 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:48,497 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:49,497 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:49,497 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:50,497 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:50,498 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:51,498 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:51,498 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:52,499 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:52,499 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready
+[ERROR] 2020-09-17 17:21:53,499 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_channel_shared_memory.cpp(83) : [SharedMemory] No such file or directory
+[WARN ] 2020-09-17 17:21:53,499 /home/xl/projects/autodrive/autodrive-common/common/src/framework/ad_controller.cpp(93) : Shared memory not ready

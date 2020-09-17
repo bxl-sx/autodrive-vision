@@ -24,6 +24,11 @@ class SurroundView {
   /// @return service instance
   static SurroundView& GetInstance() noexcept;
 
+  /// @brief Initialize SurroundView
+  ///
+  /// @param yml_file_dir  yml file path
+  void Init(std::string const& yml_file_dir) noexcept(false);
+
   /// @brief merge function
   void stitch(std::vector<cv::Mat>& src, cv::Mat& dst);
 };
