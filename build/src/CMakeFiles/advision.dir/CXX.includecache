@@ -195,6 +195,8 @@ framework/ad_exception.h
 -
 vision_processor.h
 /home/xl/projects/autodrive/autodrive-vision/src/vision_processor.h
+surround/surround_view.h
+/home/xl/projects/autodrive/autodrive-vision/src/surround/surround_view.h
 
 /home/xl/projects/autodrive/autodrive-vision/src/surround/surround_view.cpp
 surround/surround_view.h

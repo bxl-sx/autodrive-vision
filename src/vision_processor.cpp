@@ -83,7 +83,7 @@ void VisionProcessor::StartUp() noexcept(false) {
 	  //cv::Size(512, 400)
 	  sv.stitch(src, dst);
     cv::imwrite(img_dir + "picturemerge.jpg", dst);
-	  cv::waitKey(0);
+	  // cv::waitKey(0);
     // scheduler.Schedule(std::move(task));
     }
 

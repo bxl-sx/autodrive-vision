@@ -14,15 +14,15 @@
 
 #include <framework/ad_exception.h>
 #include "vision_processor.h"
-// #include "surround/surround_view.h"
+#include "surround/surround_view.h"
 
-// void vision_shutdown(){
-//   log4cxx::LogManager::shutdown();
-// }
+void vision_shutdown(){
+  log4cxx::LogManager::shutdown();
+}
 
 int main(int argc, char* argv[])
 {
-  // atexit(vision_shutdown);
+  atexit(vision_shutdown);
   log4cxx::PropertyConfigurator::configureAndWatch("../log4cxx.properties");
   log4cxx::LoggerPtr logger{log4cxx::Logger::getLogger("vision")};
   try {
